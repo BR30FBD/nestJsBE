@@ -105,4 +105,4 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 - [x] Get a user by ID
 - [x] Update a user
 - [x] Delete a user
-- Link:https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent/FMfcgzQZTVtnLnFHpQBzTMdbPswgVftC?projector=1&messagePartId=0.1
+- Link:https://docs.google.com/document/d/1qIaIiCg1pmmgyTm9fQdWxGM_w4bF8VRsD5P3rtpKJAM/edit?tab=t.0
